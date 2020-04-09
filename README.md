@@ -1,6 +1,6 @@
-# orzyyb
+# orzckv
 
-CKV is our REDSUN, we cannot live without her!!!
+CKV is our RBQ, we cannot live without her!!!
 
 这是一个ckv粉丝站点，大家可以在这上面Orzckv。
 
