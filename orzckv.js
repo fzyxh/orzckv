@@ -58,5 +58,5 @@ function ORZINF() {
 }
 
 function last_orz() {
-    document.getElementById("mainarea").innerHTML="<h1 style=\"color:red\">CKV:你怎么回事小老弟？？？<br>你被CKV秒了<br><br>被秒乃蒟蒻常事<br>请蒟蒻重新来过！<br><img src=\"yyb-win.gif\"/></h1><br><button style=\"font-size: 24px\" onclick=\"Orzckv()\" id=\"Orzckv\">重新来过！！！</button>";
+    document.getElementById("mainarea").innerHTML="<h1 style=\"color:red\">CKV:你怎么回事小老弟？？？<br>你被CKV秒了<br><br>被秒乃蒟蒻常事<br>请蒟蒻重新来过！<br><img src=\"yyb-win.gif\"/></h1><br><button style=\"font-size: 24px\" onclick=\"Orzckv()\" id=\"Orzckv\">我要重新来过！！！</button>";
 }
