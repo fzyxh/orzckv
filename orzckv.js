@@ -10,7 +10,9 @@ function Orzckv() {
 </div>\
 ";
 }
+var orzCount=0,orzDelta=1,says2_restTime=0;
 function orzorz() {
+    orzCount=0,orzDelta=1;
     document.getElementById("orz").innerHTML="\
 <p style=\"margin:10px\">\
 <span style=\"font-size: 40px; color: #FF0000\">\
@@ -32,7 +34,6 @@ ckv又变强了！\
 ";
     document.title="orz CKV!";
 }
-var orzCount=0,orzDelta=1,says2_restTime=0;
 var sayslist=new Array("你个菜逼我今天AK了","NOI怎么这么水啊，这不是用来随手AK的吗","dinosaur你个菜逼虽然我要和你在一起但是你还是好菜啊","你怎么还在乱膜啊？？？你快吸掉我RP的0.000000001‰了","今天考试又是三个傻逼题，我不仅AK了还把2048玩到了2^1000000","怎么我出的题全场爆零啊，我以为会有人负分的啊","你们还是naive，我怎么可能不AK？","今天题真的水，你们不AK的都退役吧");
 function ORZINF() {
 	var says2_restTime_Default=50;
