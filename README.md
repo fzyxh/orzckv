@@ -2,6 +2,15 @@
 
 欢迎来到 CKV 的粉丝网站
 
+## 版本更新
+
+### v1.0:
+#### 2020.4.12在orzyyb项目的基础上进行了魔改，增加了部分内容，包括：
+	ckvakioi的gif，
+	q群链接跳转支持，
+	readme美化，
+	蒟蒻重新来过的无限循环按钮。
+
 ## F.A.Q
 
 ### Q:Who is CKV？
@@ -34,11 +43,11 @@ A:目前需要：大量 CKV 黑照，有 CKV 粉丝欢迎直接来提 Issue。
 
 本仓库由 SSHhh(ssh) 提供 PS 技术支持，在此感屑
 
-本仓库由 SSHhh(ssh)/主席(lzy)/Phinney(hyx) 提供素材，在此感谢！
+本仓库由 SSHhh(ssh)/主席(lzy)/Fzyxh(hyx) 提供素材，在此感谢！
 
 本仓库由 emptysetvvvv(wjl) 提供思路与 LaTeX/Markdown/github 技术支持，在此感谢！
 
-本仓库由 Phinney(hyx) 搭建，在此感谢！
+本仓库由 Fzyxh(hyx) 搭建，在此感谢！
 
 本仓库使用了[在线图片转字符，字符图，字符图片艺术，字符画，在线生成字符画](http://life.chacuo.net/convertphoto2char)的图片生成技术，在此感谢！
 
