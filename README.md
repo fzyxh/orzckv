@@ -64,4 +64,4 @@ A:目前需要：大量 CKV 黑照，有 CKV 粉丝欢迎直接来提 Issue。
 
 本仓库使用了[在线图片转字符，字符图，字符图片艺术，字符画，在线生成字符画](http://life.chacuo.net/convertphoto2char)的图片生成技术，在此感谢！
 
-p.s Phinney PS 技术实在是太渣了
+p.s fzyxh PS 技术实在是太渣了
