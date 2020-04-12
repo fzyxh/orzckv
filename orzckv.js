@@ -25,7 +25,7 @@ ckv又变强了！\
 "+photo2+"\
 <br>\
 </p>\
-<!--img border=\"0\" src=\"https://xzz-233.github.io/orzyyb/yybakioi.gif\"-->\
+<!--img border=\"0\" src=\"./ckvakioi.gif\"-->\
 <br>\
 <button style=\"font-size: 24px\" onclick=\"ORZINF()\" id=\"orzbutton\">继续膜拜1次</button>\
 <div style=\"font-size: 50px;background:rgba(255,255,255,0.7);width:auto\" id=\"orzTimes\"></div>\
@@ -54,10 +54,10 @@ function ORZINF() {
         document.getElementById("orzbutton").innerHTML="继续膜拜"+orzDelta+"次";
     }
     if(orzCount>=10000) {
-        document.getElementById("mainarea").innerHTML="<h1 style=\"color:red\" align=\"center\">CKV:你这个辣鸡，怎么天天膜我？<br>我还要去THU吊打集训队，还要去MIT秒题<br>（CKV说着走起了路准备离开）</h1><br><br><div id=\"walkyyb\" align=\"center\"><img src=\"walkyyb.gif\"/></div><br><button style=\"font-size: 24px\" onclick=\"last_orz()\" id=\"lastorz\">继续膜拜...</button>";
+        document.getElementById("mainarea").innerHTML="<h1 style=\"color:red\" align=\"center\">CKV:你这个辣鸡，怎么天天膜我？<br>我还要去THU吊打集训队，还要去MIT秒题<br>（CKV说着走起了路准备离开）</h1><br><br><div id=\"walkckv\" align=\"center\"><img src=\"walkckv.gif\"/></div><br><button style=\"font-size: 24px\" onclick=\"last_orz()\" id=\"lastorz\">继续膜拜...</button>";
     }
 }
 
 function last_orz() {
-    document.getElementById("mainarea").innerHTML="<h1 style=\"color:red\">CKV:你怎么回事小老弟？？？<br>你被CKV秒了<br><br>被秒乃蒟蒻常事<br>请蒟蒻重新来过！<br><img src=\"yyb-win.gif\"/></h1><br><button style=\"font-size: 24px\" onclick=\"Orzckv()\" id=\"Orzckv\">我要重新来过！！！</button>";
+    document.getElementById("mainarea").innerHTML="<h1 style=\"color:red\">CKV:你怎么回事小老弟？？？<br>你被CKV秒了<br><br>被秒乃蒟蒻常事<br>请蒟蒻重新来过！<br><img src=\"ckv-win.gif\"/></h1><br><img border=\"0\" src=\"./ckvakioi.gif\">\<br>\<button style=\"font-size: 24px\" onclick=\"Orzckv()\" id=\"Orzckv\">我要重新来过！！！</button>";
 }
